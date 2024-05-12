@@ -9,4 +9,4 @@ Exploratory Analysis
 Linear Progression
 Cluster Analysis
 ## Final Deliverables
-Tableau public
+Tableau public(https://public.tableau.com/app/profile/rose.alappat.joy/viz/Task6_7_17155083563260/CustomerRetentionOptimization?publish=yes)
